@@ -1,4 +1,8 @@
 <h4 align="center"><span style="border-bottom: 5px solid #8B0000;padding-bottom: 3px">Howdy!</span></h4>
+<p align="center">
+  <img src="https://github.com/graadi/graadi/blob/main/header-bar.png" />
+</p>
+
 <h6 align="center"><i>You've reached Adrian's code dungeon.</i></h6>
 
 <div align="center">
