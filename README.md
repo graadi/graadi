@@ -1,7 +1,7 @@
 <p align="center">
   <b>Howdy!</b>
   <br/>
-  <img src="https://github.com/graadi/graadi/blob/main/images/header-bar.png" width="55"/>
+  <img src="https://github.com/graadi/graadi/blob/main/images/header-bar.png" width="50"/>
   <br/>
   <i>You've reached Adrian's code dungeon.</i>
 </p>
@@ -15,7 +15,7 @@
 <p align="left">
   <b>Technology Stack</b>
   <br/>
-  <img src="https://github.com/graadi/graadi/blob/main/images/tech-stack-bar.png" width="125"/>
+  <img src="https://github.com/graadi/graadi/blob/main/images/tech-stack-bar.png" width="120"/>
 </p>
 
 <p><img src="https://img.shields.io/badge/Programming:-000000.svg?&style=for-the-badge" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Java 8+-8B0000.svg?&style=for-the-badge&logo=java&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Spring-8B0000.svg?&style=for-the-badge&logo=spring&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/JPA/Hibernate-8B0000.svg?&style=for-the-badge&logo=&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/SQL-8B0000.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/NoSQL-8B0000.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/JUnit/Mockito-8B0000.svg?&style=for-the-badge&logo=testing-library&logoColor=white" height="30"/>
@@ -25,11 +25,10 @@
 <p align="left">
   <b>Let's Connect</b>
   <br/>
-  <img src="https://github.com/graadi/graadi/blob/main/images/lets-connect-bar.png" width="95"/>
+  <img src="https://github.com/graadi/graadi/blob/main/images/lets-connect-bar.png" width="90"/>
 </p>
 
 <p align="left">
 <a href="https://twitter.com/graaadi" target="blank" style="margin-right: 5px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jmes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/graadi/" target="blank" style="margin-right: 5px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jmes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jmes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jmes" height="30" width="40" /></a>
 </p>
