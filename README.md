@@ -13,8 +13,6 @@
 </p>
 
 <p align="left">
-  <b>Technology Stack</b>
-  <br/>
   <img src="https://github.com/graadi/graadi/blob/main/images/tech-stack-bar.png" width="120"/>
 </p>
 
@@ -23,8 +21,6 @@
 <img src="https://img.shields.io/badge/DevOps:-000000.svg?&style=for-the-badge" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Jenkins-8B0000.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Docker-8B0000.svg?&style=for-the-badge&logo=docker&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Kubernetes-8B0000.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Azure%20CLI-8B0000.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Bash-8B0000.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"/></p>
 
 <p align="left">
-  <b>Let's Connect</b>
-  <br/>
   <img src="https://github.com/graadi/graadi/blob/main/images/lets-connect-bar.png" width="90"/>
 </p>
 
