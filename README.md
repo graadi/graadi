@@ -3,7 +3,7 @@
   <br/>
   <img src="https://github.com/graadi/graadi/blob/main/images/header-bar.png"/>
   <br/>
-  <i>You've reached Adrian's code dungeon.<i>
+  <i>You've reached Adrian's code dungeon.</i>
 </p>
 
 <p align="center">
