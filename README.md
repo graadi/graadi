@@ -1,7 +1,9 @@
 <p align="center">
-  <b>Howdy! You've reached Adrian's code dungeon.</b>
+  <b>Howdy!</b>
   <br/>
   <img src="https://github.com/graadi/graadi/blob/main/images/header-bar.png"/>
+  <br/>
+  <i>You've reached Adrian's code dungeon.<i>
 </p>
 
 <p align="center">
