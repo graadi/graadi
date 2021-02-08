@@ -9,7 +9,7 @@
 <p align="justify">
   <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-bar.png"/>
   <br/>
-  Software engineer, sc cleared, working in the software development industry for over a decade, complemented by two years of management experience, with a distinct ability to translate customer requirements into clean architectures resulting in concise and maintainable software.
+  Software engineer, sc cleared, working in the software development industry for over a decade. Hands-on experience in java and the jvm ecosystem with a particular interest for devops and automation, with a distinct ability to translate customer requirements into clean architectures resulting in concise and maintainable software.
 </p>
 
 <p align="left">
