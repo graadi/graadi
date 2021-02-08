@@ -6,7 +6,7 @@
   <i>You've reached Adrian's code dungeon.</i>
 </p>
 
-<p align="center">
+<p align="justify">
   <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-bar.png"/>
   <br/>
   Software engineer, sc cleared, working in the software development industry for over a decade, complemented by two years of management experience, with a distinct ability to translate customer requirements into clean architectures resulting in concise and maintainable software.
