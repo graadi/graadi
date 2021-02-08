@@ -1,7 +1,7 @@
 <p align="center">
   <b>Howdy!</b>
   <br/>
-  <img src="https://github.com/graadi/graadi/blob/main/images/header-bar.png"/>
+  <img src="https://github.com/graadi/graadi/blob/main/images/header-bar.png" width="55"/>
   <br/>
   <i>You've reached Adrian's code dungeon.</i>
 </p>
@@ -15,7 +15,7 @@
 <p align="left">
   <b>Technology Stack</b>
   <br/>
-  <img src="https://github.com/graadi/graadi/blob/main/images/tech-stack-bar.png"/>
+  <img src="https://github.com/graadi/graadi/blob/main/images/tech-stack-bar.png" width="125"/>
 </p>
 
 <p><img src="https://img.shields.io/badge/Programming:-000000.svg?&style=for-the-badge" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Java 8+-8B0000.svg?&style=for-the-badge&logo=java&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Spring-8B0000.svg?&style=for-the-badge&logo=spring&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/JPA/Hibernate-8B0000.svg?&style=for-the-badge&logo=&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/SQL-8B0000.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/NoSQL-8B0000.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/JUnit/Mockito-8B0000.svg?&style=for-the-badge&logo=testing-library&logoColor=white" height="30"/>
