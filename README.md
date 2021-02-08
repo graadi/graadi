@@ -1,3 +1,4 @@
+```html
 <h4 align="center"><span style="border-bottom: 5px solid #8B0000;padding-bottom: 3px">Howdy!</span></h4>
 <h6 align="center"><i>You've reached Adrian's code dungeon.</i></h6>
 
@@ -24,3 +25,4 @@ I am a software engineer, SC cleared, working in the software development indust
 <a href="https://www.linkedin.com/in/graadi/" target="blank" style="margin-right: 5px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jmes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jmes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jmes" height="30" width="40" /></a>
 </p>
+```
