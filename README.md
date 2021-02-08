@@ -9,9 +9,7 @@
 <p align="center">
   <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-bar.png"/>
   <br/>
-  I am a software engineer, SC cleared, working in the software development industry for over a decade, complemented by almost two years of management experience, with a distinct ability to translate customer requirements into clean architectures resulting in concise and maintainable software.
-  <br/>
-  <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-bar.png"/>
+  Software engineer, sc cleared, working in the software development industry for over a decade, complemented by two years of management experience, with a distinct ability to translate customer requirements into clean architectures resulting in concise and maintainable software.
 </p>
 
 <p align="left">
