@@ -27,4 +27,5 @@
 <p align="left">
 <a href="https://twitter.com/graaadi" target="blank" style="margin-right: 5px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jmes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/graadi/" target="blank" style="margin-right: 5px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jmes" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/graadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stack" height="30" width="40" /></a>
 </p>
