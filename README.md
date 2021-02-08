@@ -7,9 +7,8 @@
 <h6 align="center"><i>You've reached Adrian's code dungeon.</i></h6>
 
 <div align="center">
-<p align="justify" style="width:100%; border-top: 1px solid #8B0000; border-bottom: 1px solid #8B0000; padding-top: 5px; padding-bottom: 5px">
-I am a software engineer, SC cleared, working in the software development industry for over a decade, complemented by almost two years of management experience, with a distinct ability to translate customer requirements into clean architectures resulting in concise and maintainable software.
-</p>
+  <img src="https://github.com/graadi/graadi/blob/main/horizontal-bar.png"/>
+  <p align="justify">I am a software engineer, SC cleared, working in the software development industry for over a decade, complemented by almost two years of management experience, with a distinct ability to translate customer requirements into clean architectures resulting in concise and maintainable software.</p>
 </div>
 
 
