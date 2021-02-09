@@ -6,6 +6,10 @@
   <i>You've reached Adrian's code dungeon.</i>
 </p>
 
+<p align="center">
+  <img src="https://github.com/graadi/graadi/blob/main/images/abstract.png" />
+</p>
+
 <p align="justify">
   <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-bar.png"/>
   <br/>
