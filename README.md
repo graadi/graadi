@@ -13,7 +13,7 @@
 <p align="justify">
   <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-bar.png"/>
   <br/>
-  Software engineer, sc cleared, working in the software development industry for over a decade. Hands-on experience in java and the jvm ecosystem, particularly interested in devops and automation. Distinct ability to translate customer requirements into clean, concise and maintainable software.
+  Software engineer, sc cleared, working in the software development industry for over a decade. Hands-on experience in java and the jvm ecosystem, particularly interested in devops and automation. Distinct ability to translate requirements into clean, concise and maintainable software.
 </p>
 
 <p align="left">
