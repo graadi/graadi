@@ -16,7 +16,7 @@
   Software engineer, working in the software development industry for more than a decade. Hands-on experience in Java and the JVM languages, particularly interested in DevOps & automation. Distinct ability to translate requirements into clean & maintainable software.
 </p>
 
-<p>Currently part of <a href="https://dae.mn">Dae.mn</a> technical consultancy firm.
+<p>Currently part of <a href="https://dae.mn">Daemon Solutions</a> technical consultancy firm.
 
 <p align="left">
   <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-thick-bar.png" width="140"/>
