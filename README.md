@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Salut!</b>
+  <b>Hello!</b>
   <br/>
   <img src="https://github.com/graadi/graadi/blob/main/images/header-bar.png" width="50"/>
   <br/>
