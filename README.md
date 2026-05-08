@@ -33,5 +33,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/graadi/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://web.graadi.uk.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/square.svg" alt="Website" height="30" width="40" /></a>
-  <a href="https://twitter.com/graaadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://twitter.com/graaadi" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
