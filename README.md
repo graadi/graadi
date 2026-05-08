@@ -30,14 +30,14 @@
   <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-thick-bar.png" width="140"/>
 </p>
 
-<p align="left" style="white-space: nowrap; margin: 0; padding: 0;">
-  <a href="https://www.linkedin.com/in/graadi/" target="blank" style="display: inline !important; margin: 0; padding: 0;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="display: inline !important;" />
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px; white-space: nowrap;">
+  <a href="https://www.linkedin.com/in/graadi/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://web.graadi.uk.to/" target="blank" style="display: inline !important; margin: 0; padding: 0;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/square.svg" alt="Website" height="30" width="40" style="display: inline !important;" />
+  <a href="https://web.graadi.uk.to/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/square.svg" alt="Website" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/graaadi" target="blank" style="display: inline !important; margin: 0; padding: 0;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" style="display: inline !important;" />
+  <a href="https://twitter.com/graaadi" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-</p>
+</div>
