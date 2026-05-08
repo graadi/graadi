@@ -30,8 +30,14 @@
   <img src="https://github.com/graadi/graadi/blob/main/images/horizontal-thick-bar.png" width="140"/>
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/graadi/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://web.graadi.uk.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/square.svg" alt="Website" height="30" width="40" /></a>
-  <a href="https://twitter.com/graaadi" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<p align="left" style="white-space: nowrap;">
+  <a href="https://www.linkedin.com/in/graadi/" target="blank" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle;" />
+  </a>
+  <a href="https://web.graadi.uk.to/" target="blank" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/square.svg" alt="Website" height="30" width="40" style="vertical-align: middle;" />
+  </a>
+  <a href="https://twitter.com/graaadi" target="blank" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" style="vertical-align: middle;" />
+  </a>
 </p>
